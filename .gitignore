@@ -1,0 +1,10 @@
+out/
+data/
+
+# intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+target/
+output/
